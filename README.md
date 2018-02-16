@@ -4,22 +4,21 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(February 16, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Austin Hamlin)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(This assignment is an application that includes basic javascript in which your week's expenses are calculated through percentages.)
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+(https://ah17u.github.io/lesson4_javascript1/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (I learned how to initalize variables in an application.)
+2. (How to use the variable's id values)
+3. (Working with another file that is associated with the index file and grabs information from it.)
 
 
 
